@@ -1,4 +1,4 @@
-# ** Build Streaming Data Pipeline using Kafka and store it in MongoDB**
+# **Build Streaming Data Pipeline using Kafka and store it in MongoDB**
 <br />I orchestrate a streaming data pipeline: I generate random data, seamlessly transmit it to Kafka for efficient transformation into JSON, and store this structured data in to MongoDB.
 <br />
 <br />
