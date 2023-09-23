@@ -3,4 +3,4 @@
 <br />
 <br />
 ## Architecture:
-![pipeline](https://github.com/w-saeed/Streaming-DataPipeline-using-Kafka-and-store-it-in-MongoDB/assets/28221354/0da27868-b400-4f3a-91cb-e80d2c246331)
+![pipeline](https://github.com/w-saeed/Streaming_DataPipeline_with_Kafka_and_store_it_in_MongoDB/assets/28221354/a0b3db82-688e-465f-b1bf-9cf1812d83f0)
